@@ -11,3 +11,8 @@ Once the application receives all required information above, the app welcomes t
 ## Screenshots
 ![Start of application](before.png)
 ![Finishing application](after.png)
+
+## Previous Commits Made
+![Previous commits made prior to repository move](lab2-commits.PNG)
+* Total commits: 8
+* Last commit: September 19
